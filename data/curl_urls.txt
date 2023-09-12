@@ -1,1 +1,1 @@
-*	http://my.ip:26000/
+*	http://serverdosamura.ddns.net:26000/
