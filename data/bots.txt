@@ -13,10 +13,10 @@ FOObeyOObs	erebus	0	2	6	0	0	-1	-0.5	-0.5	1	-0.5	0.5	1.5	-0.5	-1	1	0.5
 ZDASBOLASBOAS	umbra	0	13	11	0	1	1	1	1	-1	0	0.5	0	-2	0	-1	0
 xXx_Becca420_xXx	umbra	0	12	7	0	0	0	-1.5	-0.5	-0.5	0	0	0	0	-0.5	1.5	1.5
 SHADOW	ignis	0	11	1	0	-1	-1.5	-1	-0.5	1	1	-1	1	-0.5	1	0.5	0
-renan1921	gak	0	3	10	0	0	1	0	0.5	-0.5	0.5	-0.5	-1	0	0	-0.5	0
+CHarry	gak	0	3	10	0	0	1	0	0.5	-0.5	0.5	-0.5	-1	0	0	-0.5	0
 nekotronico	gakmasked	0	8	12	0	0	-1	-1	-1	0	2	0	1	0	2	-1	-1
 lhama	gakmasked	0	4	11	0	-0.5	0	0	1	-0.5	0	1	0	0	0	0	0
-KekoNargas🌎	ignismasked	0	13	13	0	0	-1	0	-0.5	0.5	1	0	1	-2	1	0	0
+Muleke_Trairao	ignismasked	0	13	13	0	0	-1	0	-0.5	0.5	1	0	1	-2	1	0	0
 Ashley	nyx	0	12	14	0	0	0	0	1	0	-1	-0.5	-1	1	0	0	0
 PETRI❤	nyx	0	3	9	0	0	0	0	2	-1	0	0	0	-1	0	0	0
 vinisooo😈	erebus	0	13	6	0	0	0	0	-0.5	-1	1	0.5	0.5	-0.5	0	0.5	0
@@ -25,4 +25,3 @@ Correa😈	ignismasked	0	0	4	0	1	1.5	2	-1	-1	-1	1	0	1	-0.5	-1	-1
 nekotronico😛	seraphina	0	9	9	0	0	0	0.5	-1	0	-1	0	-1	2.5	-1.5	1	0.5
 renan1921	seraphinamasked	0	4	8	0	-0.5	2	1	0	0	-1	0	-1	0	1	-1	-0.5
 cleiton rasta	umbra	0	1	1	0	0	-0.5	-0.5	0	2	-1	-1	-1	0	-1	1	1
-
